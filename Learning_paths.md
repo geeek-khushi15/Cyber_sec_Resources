@@ -1,95 +1,81 @@
+Free Cybersecurity Learning Resources
+
+A curated list of completely free platforms, labs, and challenges to learn and practice cybersecurity.
+
 🟢 Beginner-Friendly Platforms
 
 TryHackMe – Free Rooms
-
-Guided cybersecurity labs and learning paths. Some beginner rooms are free (e.g., “Intro to Cyber Security” & “Pre Security”). Great for structured step-by-step learning.
+ – Guided cybersecurity labs and learning paths. Some beginner rooms are free (e.g., “Intro to Cyber Security” & “Pre Security”).
 
 Hack The Box (Starting Point)
-
-Free beginner-friendly “Starting Point” machines. Helps you understand penetration testing basics before moving to harder boxes.
+ – Free beginner-friendly machines for penetration testing basics.
 
 OverTheWire Wargames
-
-Classic free challenges to practice Linux, SSH, and security concepts. Great for complete beginners (start with Bandit).
+ – Free Linux & security-based wargames. Start with Bandit.
 
 PortSwigger Web Security Academy
-
-100% free interactive labs to learn web app security (XSS, SQLi, CSRF, SSRF, etc.). Perfect for aspiring bug bounty hunters.
+ – Free interactive labs for web app security (XSS, SQLi, CSRF, etc.).
 
 🛠️ Practice Labs & Vulnerable Machines
 
 VulnHub
-
-Free vulnerable VMs you can download and run locally with VirtualBox/VMware. Perfect for offline pentesting practice.
+ – Free vulnerable VMs for offline pentesting practice.
 
 Root Me
-
-400+ free hacking challenges across categories: web, network, crypto, reverse engineering, etc.
+ – 400+ free hacking challenges across web, crypto, network, etc.
 
 PicoCTF
-
-Free beginner-to-intermediate Capture The Flag (CTF) challenges created by Carnegie Mellon University. Great for students.
+ – Free CTF challenges designed by Carnegie Mellon University.
 
 Crackmes.one
-
-Free collection of reverse engineering challenges to practice binary exploitation & reverse engineering.
+ – Free reverse engineering challenges.
 
 PentesterLab – Free Exercises
-
-Hands-on free labs on topics like web security, shellshock, and authentication bypass.
+ – Hands-on free labs (web security, shellshock, etc.).
 
 🔵 Blue Team (Defensive Security)
 
 LetsDefend (Free Tier)
-
-SOC environment where you investigate incidents, analyze alerts, and learn real-world defensive security. Free tier available.
+ – SOC environment for incident response & defensive skills.
 
 Blue Team Labs Online
-
-Free defensive security challenges like log analysis, malware investigation, and DFIR tasks.
+ – Free defensive challenges (log analysis, DFIR, malware).
 
 CyberDefenders
-
-Free Blue Team CTFs focused on incident response, threat hunting, and forensic investigations.
+ – Free Blue Team CTFs (threat hunting, incident response).
 
 Security Blue Team – Free Labs
-
-Some free defensive exercises covering SOC analysis, detection, and investigation skills.
+ – Free defensive exercises & SOC simulations.
 
 🎮 Gamified & Scenario-Based Platforms
 
 KC7 Cyber
-
-Cybersecurity detective game where you investigate cyber incidents through a story-driven experience.
+ – Free cyber detective game with story-driven scenarios.
 
 HackThisSite
-
-Long-standing free platform with missions covering web hacking, application security, and realistic scenarios.
+ – Classic free hacking challenges & missions.
 
 pwnable.kr
-
-Free binary exploitation challenges focusing on low-level system hacking and reverse engineering.
+ – Free binary exploitation and system hacking challenges.
 
 SmashTheStack Wargames
-
-Classic free wargames for practicing exploitation and Linux-based security concepts.
+ – Classic wargames for practicing exploitation.
 
 📺 Free Courses & YouTube Channels
 
 Open Security Training
-
-Free in-depth training on topics like x86 exploitation, reverse engineering, and malware analysis.
+ – Free deep-dive courses on x86, exploitation, malware analysis.
 
 YouTube Channels
 
 John Hammond
- – Walkthroughs of CTFs, TryHackMe, HackTheBox.
+ – CTF & TryHackMe/HackTheBox walkthroughs.
 
 NetworkChuck
- – Fun videos on cybersecurity, hacking tools, Linux.
+ – Fun tutorials on hacking, Linux, cybersecurity.
 
 STÖK
- – Web security & bug bounty methodology.
+ – Bug bounty methodology & web hacking.
 
 LiveOverflow
- – Great beginner-friendly videos on binary exploitation and hacking basics.
+ – Binary exploitation & hacking explained simply.
